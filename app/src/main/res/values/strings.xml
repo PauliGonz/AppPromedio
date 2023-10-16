@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AppPromedio</string>
+    <string name="txt_primerValor">Ingresa el primer valor</string>
+    <string name="txt_segundoValor">Ingresa el segundo valor</string>
+    <string name="rb1">SUMAR</string>
+    <string name="rb2">RESTAR</string>
+    <string name="button">CALCULAR</string>
+    <string name="textView_resultado">Resultado</string>
 </resources>
