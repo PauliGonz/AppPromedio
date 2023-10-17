@@ -46,7 +46,7 @@
 
     <RadioGroup
         android:id="@+id/radioGroup"
-        android:layout_width="223dp"
+        android:layout_width="276dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="64dp"
         android:layout_marginTop="28dp"
@@ -64,6 +64,18 @@
             android:layout_width="124dp"
             android:layout_height="wrap_content"
             android:text="@string/rb2" />
+
+        <RadioButton
+            android:id="@+id/rb_multiplicar"
+            android:layout_width="124dp"
+            android:layout_height="wrap_content"
+            android:text="@string/rb3" />
+
+        <RadioButton
+            android:id="@+id/rb_dividir"
+            android:layout_width="124dp"
+            android:layout_height="wrap_content"
+            android:text="@string/rb4" />
 
     </RadioGroup>
 

@@ -4,6 +4,8 @@
     <string name="txt_segundoValor">Ingresa el segundo valor</string>
     <string name="rb1">SUMAR</string>
     <string name="rb2">RESTAR</string>
+    <string name="rb3">MULTIPLICAR</string>
+    <string name="rb4">DIVIDIR</string>
     <string name="button">CALCULAR</string>
     <string name="textView_resultado">Resultado</string>
 </resources>
